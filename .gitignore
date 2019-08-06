@@ -1,5 +1,6 @@
 *~
-src/build
-src/bin
-src/objs
+build
+bin
+objs
 .sconsign.dblite
+.vs
